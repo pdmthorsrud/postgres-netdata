@@ -1,0 +1,9 @@
+Password (will be hidden):
+Key                Value
+---                -----
+lease_id           consul/creds/tenant-management/bhZmoRhm7K7ymzc7amKQH1go.t60op
+lease_duration     768h
+lease_renewable    true
+accessor           19d9eb08-e7c1-bf81-8199-1ad18a72394c
+local              false
+token              60e53810-64ec-bb5b-71a4-d64fb7ba2112
